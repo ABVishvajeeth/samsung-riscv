@@ -1,0 +1,2 @@
+# samsung-riscv
+SAMSUNG INTERNSHIP
